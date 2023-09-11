@@ -1,6 +1,3 @@
-import models.Logged;
-import models.Register;
-
 import java.util.Scanner;
 
 public class Main {
