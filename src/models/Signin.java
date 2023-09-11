@@ -1,2 +1,4 @@
-package models;public class Signin {
+package models;
+
+public class Signin {
 }
